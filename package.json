@@ -1,0 +1,30 @@
+{
+  "name": "@localrank/agent-skills",
+  "version": "1.0.0",
+  "description": "LocalRank skill for AI coding agents - track local rankings, run audits, manage clients",
+  "main": "scripts/localrank.js",
+  "bin": {
+    "localrank": "./scripts/localrank.js"
+  },
+  "scripts": {
+    "test": "node scripts/localrank.js --help"
+  },
+  "keywords": [
+    "localrank",
+    "local-seo",
+    "rankings",
+    "google-business",
+    "ai-agent",
+    "claude-code",
+    "mcp"
+  ],
+  "author": "LocalRank",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peterw/localrank-agent-skills"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

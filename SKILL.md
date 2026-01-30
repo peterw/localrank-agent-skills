@@ -1,3 +1,10 @@
+---
+name: LocalRank
+description: Track local rankings, run SEO audits, and manage agency clients using LocalRank
+author: LocalRank
+repository: https://github.com/peterw/localrank-agent-skills
+---
+
 # LocalRank Skill
 
 Track local rankings, run SEO audits, and manage agency clients using LocalRank.
